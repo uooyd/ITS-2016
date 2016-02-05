@@ -1,0 +1,64 @@
+header {
+	width: 80%;
+	height: 70px;
+	text-align: center;
+	margin: auto;
+	background-color: black;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 18pt;
+	color: white;
+}
+
+#Nav1 {
+	width: 80%;
+	height: 50px;
+	text-align: center;
+	margin: auto;
+	background-color: red;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 14pt;
+	color: black;
+}
+
+span {
+	width: 80%;
+	margin: auto;
+}
+
+#Nav2 {
+	width: 20%;
+	height: 500px;
+	text-align: left;
+	background-color: black;
+	text-align: center;
+	vertical-align: center;
+	color: white;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	margin:auto;
+	float: left;
+}
+
+content {
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	width: 80%;
+	height: 500px;
+	text-align: right;
+	background-color: white;
+	text-align: center;
+	float: right;
+	margin: auto;
+	background-color: green;
+}
+
+footer {
+	width: 80%;
+	height: 70px;
+	margin: auto;
+	float: left;
+	position: relative;
+	background-color: red;
+	text-align: center;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 18pt;
+	color: black;
+}
