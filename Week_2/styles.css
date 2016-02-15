@@ -1,0 +1,89 @@
+header {
+	height: 100px;
+	background-color: cyan;
+	text-align: center;
+	color: pink;
+}
+
+#header-content {
+	top: 50%;
+	text-align: center;
+	margin: auto;
+	position: relative;
+	transform: translate(0,-50%);
+	font-size: 36px;
+	text-shadow: 2px 2px white;
+}
+
+#nav {
+	height: 30px;
+	color: white;
+	width: 100%;
+	text-shadow: 5px 5px 2px pink;
+	font-variant: small-caps;
+}
+
+#n1 {
+	background-color: brown;
+}
+
+#n2 {
+	background-color: #FF9900;
+}
+
+#n3 {
+	background-color: blue;
+}
+
+#n4 {
+	background-color: #FF9900;
+}
+
+#n5 {
+	background-color: brown;
+}
+
+#sideNav {
+	top: 50%;
+	margin: auto;
+	text-align: center;
+	position: relative;
+	background-color: red;
+	transform: translate(0,-50%);
+	width: 100%;
+	color: white;
+	text-shadow: 2px 2px black;
+	height: 50%;
+}
+
+aside {
+	width: 30%;
+	float: left;
+	background-color: #000099;
+	height: 700px;
+}
+
+content {
+	width: 70%;
+	float: right;
+	background-color: lime;
+	height: 700px;
+}
+
+footer {
+	clear: both;
+	background-color: #FF9900;
+	text-align: center;
+	height: 100px;
+	position: relative;
+	top: 2px;
+}
+
+#ftext {
+	text-align: center;
+	top: 50%;
+	margin: auto;
+	position: relative;
+	transform: translate(0,-50%);
+	text-shadow: 2px 2px white;
+}
